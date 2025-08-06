@@ -1,16 +1,21 @@
-# flutter_todo
+# ✅ TodoApp - Katomaran Hackathon
 
-A simple Flutter To-Do App
+This is a **ToDo App** created for the **Katomaran Hackathon 2025**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+### 🔧 Features
+- Add, delete, and manage tasks
+- Responsive layout (Android, iOS, Web, Windows)
+- State management (setState)
+- Minimalist and clean codebase
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🚀 How to Run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/kaviya-sivasankar/TodoApp-Katomaran-Hackathon.git
+cd TodoApp-Katomaran-Hackathon
+flutter pub get
+flutter run
