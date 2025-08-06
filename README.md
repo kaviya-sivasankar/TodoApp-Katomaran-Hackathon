@@ -1,4 +1,4 @@
-# ✅ TodoApp - Katomaran Hackathon
+# TodoApp - Katomaran Hackathon
 
 
 
