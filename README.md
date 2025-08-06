@@ -11,6 +11,12 @@ This is a **ToDo App** created for the **Katomaran Hackathon 2025**.
 - Minimalist and clean codebase
 
 ---
+## 🛠️ Built With
+
+- Flutter (Dart)
+- Android Studio / VS Code
+- Git & GitHub
+
 
 ### 🚀 How to Run
 
