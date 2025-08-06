@@ -6,7 +6,7 @@ This is a **ToDo App** created for the **Katomaran Hackathon 2025**.
 
 ### 🔧 Features
 - Add, delete, and manage tasks
-- Responsive layout (Android, iOS, Web, Windows)
+- Responsive layout 
 - State management (setState)
 - Minimalist and clean codebase
 
