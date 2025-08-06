@@ -1,17 +1,6 @@
 # ✅ TodoApp - Katomaran Hackathon
 
-This is a **ToDo App** created for the **Katomaran Hackathon 2025**.
-
----
-
-
-
----
-## 🛠️ Built With
-
-
-- Android Studio / VS Code
-- Git & GitHub
+This is a **ToDo App** created for the **Katomaran Hackathon 2025**
 
 
 ### 🚀 How to Run
